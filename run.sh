@@ -1,0 +1,1 @@
+g++ Disassembler.cpp DisassemblerConstants.h -o d80.out && ./d80.out hello.com
